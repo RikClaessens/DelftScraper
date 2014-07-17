@@ -1,0 +1,14 @@
+# Generated File & Folders #
+out/
+
+# Package Files #
+*.jar
+
+# IntelliJ related files #
+*.iml
+src/META-INF
+.idea/
+target/
+
+# Unrelated project files
+scraped[a-zA-z]*.txt

@@ -11,4 +11,4 @@ src/META-INF
 target/
 
 # Unrelated project files
-scraped[a-zA-z]*.txt
+scraped_[a-zA-z]*.txt

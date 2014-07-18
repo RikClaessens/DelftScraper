@@ -1,5 +1,6 @@
-# Generated File & Folders #
+# Generated Files & Folders #
 out/
+*.class
 
 # Package Files #
 *.jar
